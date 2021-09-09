@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1627155412 source:c:\users\vitória\documents\faculdade\ere\dcc059\trabalho_grupo5\trabalho\edge.cpp
+	"Edge.h"
+	<iostream>
+
+1627155412 c:\users\vitória\documents\faculdade\ere\dcc059\trabalho_grupo5\trabalho\edge.h
+
+1626550711 source:c:\users\vitória\documents\faculdade\ere\dcc059\trabalho_grupo5\trabalho\node.cpp
+	"Node.h"
+	"Edge.h"
+	<iostream>
+
+1626550679 c:\users\vitória\documents\faculdade\ere\dcc059\trabalho_grupo5\trabalho\node.h
+	"Edge.h"
+
+1627156599 source:c:\users\vitória\documents\faculdade\ere\dcc059\trabalho_grupo5\trabalho\graph.cpp
+	"Graph.h"
+	"Node.h"
+	"Edge.h"
+	<iostream>
+	<fstream>
+	<stack>
+	<queue>
+	<list>
+	<math.h>
+	<cstdlib>
+	<ctime>
+	<float.h>
+	<iomanip>
+
+1627156609 c:\users\vitória\documents\faculdade\ere\dcc059\trabalho_grupo5\trabalho\graph.h
+	"Node.h"
+	<fstream>
+	<stack>
+	<list>
+
+1628444277 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\edge.cpp
+	"Edge.h"
+	<iostream>
+
+1628444277 c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\edge.h
+
+1630430209 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\node.cpp
+	"Node.h"
+	"Edge.h"
+	<iostream>
+
+1630430180 c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\node.h
+	"Edge.h"
+
+1630431161 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\graph.cpp
+	"Graph.h"
+	"Node.h"
+	"Edge.h"
+	"MinHeapData.h"
+	<iostream>
+	<fstream>
+	<stack>
+	<queue>
+	<list>
+	<math.h>
+	<cstdlib>
+	<ctime>
+	<float.h>
+	<iomanip>
+	<algorithm>
+	<string.h>
+	<vector>
+	<iomanip>
+	<climits>
+
+1630430657 c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\graph.h
+	"Node.h"
+	"Edge.h"
+	"Cluster.h"
+	<fstream>
+	<stack>
+	<list>
+	<vector>
+
+1627422894 c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\minheap.h
+	"MinHeapNode.h"
+
+1628444277 c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\minheapnode.h
+
+1630430418 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\main.cpp
+	"Graph.h"
+	"Node.h"
+	"Edge.h"
+	"MinHeapData.h"
+	<iostream>
+	<fstream>
+	<stack>
+	<queue>
+	<list>
+	<math.h>
+	<cstdlib>
+	<ctime>
+	<float.h>
+	<iomanip>
+	<algorithm>
+	<string.h>
+	<vector>
+	<iomanip>
+	<climits>
+
+1627422894 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\minheap.h
+	"MinHeapNode.h"
+
+1627423332 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\minheap.cpp
+	<climits>
+	<iostream>
+	"MinHeap.h"
+	"MinHeapNode.h"
+
+1627420512 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\minheapnode.h
+
+1630430013 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\cluster.cpp
+	"Cluster.h"
+	"Node.h"
+	<iostream>
+
+1630430074 c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\cluster.h
+	"Node.h"
+	"vector"
+
+1628445533 c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\minheapdata.h
+	"MinHeapNode.h"
+
+1628445643 source:c:\users\allan\documents\repositorio\trabalho_grupo5\trabalho\minheapdata.cpp
+	<climits>
+	<iostream>
+	"MinHeapData.h"
+	"MinHeapNode.h"
+
